@@ -1,0 +1,13 @@
+package com.jenius.struts;
+
+import com.opensymphony.xwork2.ActionSupport;
+import com.opensymphony.xwork2.ModelDriven;
+
+public class LoginAction extends ActionSupport implements ModelDriven<User>{
+	public String login()
+	{
+		String str =null;
+		
+		return str;
+	}
+}

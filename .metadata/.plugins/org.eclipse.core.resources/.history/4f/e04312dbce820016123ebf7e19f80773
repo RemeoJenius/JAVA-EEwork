@@ -1,0 +1,5 @@
+package com.jenius.struts;
+
+public class LoginAction extends{
+
+}
