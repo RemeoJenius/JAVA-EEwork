@@ -1,0 +1,14 @@
+package com.jenius.test;
+
+import java.util.Scanner;
+
+public class Test {
+	public static void main(String[] args) {
+		int f;
+		int c;
+		Scanner in = new Scanner(System.in);
+		f = in.nextInt();
+		f = (int) ((9/5.0)*c+32);
+		System.out.println(c);
+	}
+}

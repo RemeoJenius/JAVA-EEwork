@@ -1,0 +1,5 @@
+package com.jenius.web.meta;
+
+public class User {
+
+}

@@ -1,0 +1,19 @@
+.ui.form.segment.mid {
+    box-sizing: border-box;
+    position: absolute;;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    width: 800px
+}
+.ui.primary.button {
+    width: 90px;
+}
+body{
+    position: absolute;
+    margin: 0;
+}
+.bg {
+    width: 1250px;
+    height: 1250px;
+}

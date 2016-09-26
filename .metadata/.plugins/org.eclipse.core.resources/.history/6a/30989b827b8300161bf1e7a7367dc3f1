@@ -1,0 +1,9 @@
+.ui.menu a{
+    width: 180px;
+}
+.right.menu item{
+    width: 60px;
+}
+.ui.primary.button.denglv {
+    width: 97px;
+}
